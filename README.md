@@ -1,6 +1,7 @@
-# Project 4 - RemoteCodePublisher
+# RemoteCodePublisher
 
-Project 4: http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE687/Lectures/Project4-S2017.htm
+## Objective
+![](Description.PNG)
 
 #### Command line args:
 start CppCli-WPF-App.exe localhost:8081 localhost:8080 C:\CodePublisher\
